@@ -5,4 +5,10 @@ public class TesteGit{
 
 		System.out.println("Olaaaa");
 	}
+
+
+	public void metodo(){
+
+		
+	}
 }
