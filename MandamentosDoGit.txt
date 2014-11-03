@@ -1,0 +1,10 @@
+git.supero.com.br/git/ - url do git SUPERO.
+
+git init - inicia um repositório.
+git add - adiciona arquivos no repositorio.
+git status - mostra o status do repositório.
+git commit -am -  Checa suas alterações no repositório.
+git push origin master - enviar código no repositório.
+git pull origin master - baixar alterações no repositório.
+git config --global user.email "fernandoaugustoleite@hotmail.com"
+git config --global user.name "FernandoMarcelino"
