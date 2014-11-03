@@ -4,6 +4,7 @@ public class TesteGit{
 
 
 		System.out.println("Olaaaa");
+		System.out.println("Olaaaa");
 	}
 
 
