@@ -15,7 +15,7 @@ public class TesteGit{
 
 	public void metodo(){
 
-		
+		JOptionPane.showMessageDialog(parentComponent, message);
 
 	}
 
